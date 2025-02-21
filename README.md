@@ -7,7 +7,7 @@ This project aims to analyze foreign exchange (FX) rates and their potential cor
 
 ## Project Structure
 
-- ```
+```
 ├── GUIDDIR_FX_Project.ipynb     # Jupyter Notebook containing the analysis and visualizations
 ├── requirements.txt             # Lists all dependencies required to run the project
 ├── unemployement rate.xlsx      # Excel file with unemployment rate data for analysis
