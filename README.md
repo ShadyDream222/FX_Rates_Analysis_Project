@@ -31,8 +31,9 @@ pip install -r requirements.txt
 jupyter notebook GUIDDIR_FX_Project.ipynb
 ```
 
-##  Analysis Summary
+## Analysis Summary
 The project includes:
+
 - Importing and preprocessing FX rate data
 - Analyzing unemployment rate trends
 - Identifying correlations between macroeconomic factors and FX movements
